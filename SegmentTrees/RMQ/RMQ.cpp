@@ -7,6 +7,7 @@ using namespace std;
 
 /*
  * http://codeforces.com/group/K8KexP52bs/contest/219775/problem/A
+ *
  */
 
 int n;
